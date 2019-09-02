@@ -1,1 +1,1 @@
-[github page](https://mogikan.github.io)
+[blog by Vitaliy Korney](https://mogikan.github.io)

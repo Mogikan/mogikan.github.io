@@ -1,1 +1,1 @@
-# Mogikan.github.io
+[github page](https://mogikan.github.io)

@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hi, my name is Vitaliy Korney
+title: Software Development notes
 email: submit@mobidb.mobi
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Vitaliy. And I'm an MD in Computer science. I work as a software developer and also a CEO of MobiDB database app. This blog is devoted to Software Development, Product Management, Startups and Business.
+  My name is Vitaliy. And I'm an MD in Computer science. I work as a software developer and also as a CEO of MobiDB database app startup. This blog is devoted to Software Development, Product Management, Startups and Business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://korney.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vitaliykorney

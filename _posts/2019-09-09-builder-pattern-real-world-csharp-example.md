@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Builder design pattern C# real world example"
-date:   2019-09-05 15:37:15 +0700
+date:   2019-09-09 15:37:15 +0700
 categories: Design Patterns
 ---
 In the previous post I provided [real world example of Abstract Factory pattern]({% post_url 2019-09-05-abstact-factory-real-world-csharp-example %}).
